@@ -6,12 +6,15 @@
 
 <br/>
 
+## You can find me on 
 <!--
 <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  --> 
-<a href="https://www.linkedin.com/in/iasonas-kakandris-498688209/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+ <a href="https://www.linkedin.com/in/iasonas-kakandris-498688209/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"/></a>
+    
+ [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/deepblue597)
 <!--</a>
 <a href="mailto:georgiou.kostas94@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
@@ -22,6 +25,26 @@
 <a href="https://pypi.org/user/drkostas/">
     <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a> --> 
+
+
+## Frontend Development 
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,js)](https://skillicons.dev)
+
+## Other Languages 
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,arduino,matlab,mysql)](https://skillicons.dev)
+
+## My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepblue597&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepblue597&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepblue597&theme=2077)
+ 
+
 <!--
 **deepblue597/deepblue597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
