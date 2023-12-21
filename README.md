@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&multiline=true&random=false&width=600&height=120&lines=Jason+Kakandris+;Electrical+and+Computer+Engineering+student)](https://git.io/typing-svg)
 
 
-### Hi there 👋
+### Hi there 👋 🦆
 
 <br/>
 
