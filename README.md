@@ -14,7 +14,10 @@
  <a href="https://www.linkedin.com/in/iasonas-kakandris-498688209/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"/></a>
     
+
  [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/deepblue597)
+
+ ## [My personal website](https://deepblue597.github.io/)  
 <!--</a>
 <a href="mailto:georgiou.kostas94@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
