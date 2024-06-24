@@ -17,7 +17,7 @@
 
  [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/deepblue597)
 
- ## [My personal website]([https://deepblue597.github.io/](https://deepblue597-github-io.vercel.app/))  
+ ## [My personal website](https://deepblue597-github-io.vercel.app/)
 <!--</a>
 <a href="mailto:georgiou.kostas94@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
