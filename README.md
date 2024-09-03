@@ -30,12 +30,12 @@
 </a> --> 
 
 
-## Frontend Development 
+## Work Exp languages  
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,js,flutter,dart)](https://skillicons.dev)
 
-## Other Languages 
+## University Exp languages 
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,arduino,matlab,mysql)](https://skillicons.dev)
