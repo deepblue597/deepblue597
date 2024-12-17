@@ -33,7 +33,7 @@
 ## Work Exp languages  
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,js,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,js,flutter,dart,kafka,docker,cassandra)](https://skillicons.dev)
 
 ## University Exp languages 
 <br/>
