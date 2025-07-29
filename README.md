@@ -33,14 +33,24 @@
 
 ## Work Exp languages  
 <br/>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,js,flutter,dart,kafka,docker,cassandra)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,html,css,angular,js,flutter,dart,kafka,docker,fastapi,postgres,grafana,kubernetes&perline=4" />
+  </a>
+</p>
+<!-- [![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,js,flutter,dart,kafka,docker,fastapi,postgres,grafana,kubernetes&perline=4)](https://skillicons.dev)
+ -->
+ 
 ## University Exp languages 
 <br/>
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,arduino,matlab,mysql)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,matlab,mysql&perline=4" />
+  </a>
+</p>
+<!-- [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,arduino,matlab,mysql&perline=4)](https://skillicons.dev)
+ -->
+ 
 ## My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepblue597&theme=2077)
