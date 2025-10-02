@@ -35,7 +35,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,html,css,angular,js,flutter,dart,kafka,docker,fastapi,postgres,grafana,kubernetes&perline=4" />
+    <img src="https://skillicons.dev/icons?i=ts,html,css,angular,js,flutter,dart,kafka,docker,fastapi,postgres,grafana,kubernetes,redis&perline=4" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,js,flutter,dart,kafka,docker,fastapi,postgres,grafana,kubernetes&perline=4)](https://skillicons.dev)
