@@ -26,7 +26,7 @@ Software Engineer with experience in full-stack development, cloud infrastructur
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,redis,postgres&perline=5" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=grafana&perline=5" />
+  <img src="https://skillicons.dev/icons?i=grafana,ansible&perline=5" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Software Engineer with experience in full-stack development, cloud infrastructur
 ## Academic & Research Experience
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,matlab,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,arduino,matlab,mysql,react&perline=6" />
 </p>
 
 ---
