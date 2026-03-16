@@ -12,7 +12,7 @@
 
 ## About Me
 
-Software Engineer with experience in full-stack development, cloud infrastructure, and data streaming technologies. Currently working as an MLOps Enginner at ICS-FORTH. 
+Software Engineer with experience in full-stack development, cloud infrastructure, and data streaming technologies. Currently working as Software Engineer @NCSR Demokritos. 
 
 
 ---
